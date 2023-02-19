@@ -1,8 +1,8 @@
 
-# Hi there 👋
+# Hi there 👋 
+I am  Anas Shaikh
 
-I am an Aspiring Full Stack developer who is very much interested in Web Development, I have always wondered how Backend system works, hence I liked to be specialised in Backend and so currently learning Node.js, MongoDB & Express.
-I am also proficient in Vanilla JavaScript, HTML & CSS.
+I'm a Java Backend Developer with a passion for web development. I've got HTML, CSS, and JavaScript in my toolkit, and I'm ready to put them to work for you. I love taking a project from start to finish and seeing the final product come to life. Whether it's building a dynamic website or adding a touch of style with CSS, I'm all in. So, let's make some magic happen! With me on your team, your website will be the talk of the virtual town. So, let's get to work!
  
 
 
