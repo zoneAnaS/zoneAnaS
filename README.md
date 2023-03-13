@@ -11,8 +11,8 @@ I'm a Java Backend Developer with a passion for web development. I've got HTML, 
 
    [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,mysql)](https://skillicons.dev)
    
-
- ##  Reach me on :  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anas-shaikh-web-developer/) &nbsp; 
+<!-- 
+ ##  Reach me on :  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anas-shaikh-web-developer/) &nbsp;  -->
  
  ## Checkout My Portfolio : [Anas Shaikh](https://zoneanas.github.io/)
 
