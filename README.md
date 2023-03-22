@@ -22,4 +22,4 @@ I'm a Java Backend Developer with a passion for web development. I've got HTML, 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoneanas&show_icons=true&locale=en" alt="zoneanas" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoneanas&" alt="zoneanas" /></p> -->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zoneanas&" alt="zoneanas" /></p>
